@@ -18,3 +18,5 @@ function getArea(arr) {
 
 
 };
+
+module.exports = getArea;
